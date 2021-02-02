@@ -1,1 +1,1 @@
-# LangGuesser
+A creative and vibrant project created via Node.js and the aid of external packages. The language guesser works through a terminal, accepting a string of words and attempts to give its best guess of the language as an output.  
